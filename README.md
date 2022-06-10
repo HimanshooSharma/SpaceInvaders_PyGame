@@ -1,1 +1,1 @@
-# Space Stooter Game built using pygame
+# Space Shooter built using pygame
