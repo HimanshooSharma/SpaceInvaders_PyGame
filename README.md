@@ -1,1 +1,1 @@
-# SpaceInvaders_PyGame
+# Space Stooter Game built using pygame
